@@ -1,5 +1,4 @@
-
-## 后稷•中文农业大模型
+![](https://github.com/zhiweihu1103/AgriMa/blob/main/pics/logo.jpg)
 ### 模型简介
 ### 最近更新
 ### 致谢
