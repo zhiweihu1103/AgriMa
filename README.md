@@ -1,7 +1,4 @@
-<p align="center">
-  <img width="300" height="125" src="https://github.com/zhiweihu1103/AgriMa/blob/main/pics/logo.jpg">
-</p>
-
+## 后稷•中文农业大模型(AgriMa)
 ### 模型简介
 后稷•中文农业大模型是由山西大学、山西农业大学联合研发，以[Baichuan](https://huggingface.co/baichuan-inc)为底座，基于海量中文有监督农业领域微调数据训练的中文农业大模型。
 ### 最近更新
