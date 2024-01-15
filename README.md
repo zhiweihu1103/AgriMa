@@ -1,4 +1,7 @@
-![](https://github.com/zhiweihu1103/AgriMa/blob/main/pics/logo.jpg)
+<p align="center">
+  <img width="460" height="300" src="[https://example.com/your-image-url.jpg](https://github.com/zhiweihu1103/AgriMa/blob/main/pics/logo.jpg)">
+</p>
+
 ### 模型简介
 ### 最近更新
 ### 致谢
