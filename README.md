@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="300" height="130" src="https://github.com/zhiweihu1103/AgriMa/blob/main/pics/logo.jpg">
+  <img width="300" height="125" src="https://github.com/zhiweihu1103/AgriMa/blob/main/pics/logo.jpg">
 </p>
 
 ### 模型简介
