@@ -31,3 +31,4 @@
 本项目基于现有开源项目二次开发，在此对相关项目和研发人员表示感谢。
 * [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory)
 ### 免责声明
+本项目相关资源仅供学术研究之用，严禁用于商业用途。
