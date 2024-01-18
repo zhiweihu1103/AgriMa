@@ -15,7 +15,7 @@
 ### 项目参与者
 本项目由山西大学与山西农业大学联合开发完成
 
-项目主要开发人员：胡志伟、闫智超、马博翔
+项目主要开发人员：[胡志伟](https://github.com/zhiweihu1103)、[闫智超](https://github.com/yzc111)、[马博翔](https://github.com/MattMaBX)
 
 指导教师：李茹教授
 ### 致谢
