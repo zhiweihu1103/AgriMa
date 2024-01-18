@@ -19,6 +19,8 @@
 项目主要开发人员：[胡志伟](https://github.com/zhiweihu1103)、[闫智超](https://github.com/yzc111)、[马博翔](https://github.com/MattMaBX)
 
 指导教师：李茹教授
+
+若有相关使用需求或者相关数据集提供，欢迎与我们取得联系：zhiweihu@whu.edu.cn
 ### 致谢
 本项目基于现有开源项目二次开发，在此对相关项目和研发人员表示感谢。
 * [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory)
