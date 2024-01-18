@@ -30,9 +30,8 @@
 ### 免责声明
 本项目相关资源仅供学术研究之用，严禁用于商业用途。
 ## Star History
-
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=FudanDISC/DISC-LawLLM&type=Date&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=FudanDISC/DISC-LawLLM&type=Date" />
-    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=FudanDISC/DISC-LawLLM&type=Date" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=zhiweihu1103/AgriMa&type=Date&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=zhiweihu1103/AgriMa&type=Date" />
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=zhiweihu1103/AgriMa&type=Date" />
 </picture>
