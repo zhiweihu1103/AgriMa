@@ -34,8 +34,8 @@ cd AgriMa
 pip install -r requirements.txt
 ```
 2. 指令集构建
-* 可参考[此地址](https://github.com/hiyouga/LLaMA-Factory/blob/main/data/README_zh.md)进行指令集构建；
-* 如需AgriMa微调指令集，可发送邮件到：zhiweihu@whu.edu.cn；
+* 按照[此说明](https://github.com/hiyouga/LLaMA-Factory/blob/main/data/README_zh.md)进行指令集构建；
+* 如需获取AgriMa微调指令集，请发送邮件至zhiweihu@whu.edu.cn与我们联系。
 3. 模型微调
 ```python
 sh start_train.sh
