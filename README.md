@@ -8,7 +8,7 @@
 1. 本项目仍在不断迭代更新，考虑到农业领域覆盖广泛，且存在领域数据集资源严重匮乏的问题，我们目前仅发布了在作物学相关问答数据集上的微调模型，其他领域模型我们会在后续陆续公布；
 2. 本项目所提供的数据与模型仅供科研使用，严禁用于商业用途；
 ### 新闻
-- [**2024.02.22**] 👋 👋 👋 后稷-v0.1版本模型发布，目前模型已支持作物学领域；
+- [**2024.02.22**] 👋 👋 👋 后稷-v1.0版本模型发布，目前模型已支持作物学领域；
 ### 更新计划
 - [ ] 覆盖更多农业相关领域, 目前仅支持作物学领域，后续将会更新园艺学、农业资源利用、植物保护、畜牧学、兽医学、草业科学、林学以及水产等学科；
 - [ ] 基于农业知识图谱、农业教材以及期刊文章预训练模型；
@@ -34,8 +34,8 @@ cd AgriMa
 pip install -r requirements.txt
 ```
 2. 指令集构建
-* 依照[此地址](https://github.com/hiyouga/LLaMA-Factory/blob/main/data/README_zh.md)说明进行指令集构建；
-* 如需AgriMa微调指令集，请向zhiweihu@whu.edu.cn发送邮件；
+* 可参考[此地址](https://github.com/hiyouga/LLaMA-Factory/blob/main/data/README_zh.md)进行指令集构建；
+* 如需AgriMa微调指令集，可发送邮件到：zhiweihu@whu.edu.cn；
 3. 模型微调
 ```python
 sh start_train.sh
