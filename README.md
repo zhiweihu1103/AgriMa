@@ -36,6 +36,19 @@ pip install -r requirements.txt
 * 指令集构建
 1. 依照[此地址](https://github.com/hiyouga/LLaMA-Factory/blob/main/data/README_zh.md)说明进行指令集构建；
 2. 如需AgriMa微调指令集，请向zhiweihu@whu.edu.cn发送邮件；
+* 模型微调
+```python
+sh start_train.sh
+```
+1. 需要首先下载预训练权重，如[Baichuan](https://huggingface.co/baichuan-inc)；
+2. 需要根据你的服务器地址修改对应的：LOG_PATH, OUTPUT_DIR, MODEL_NAME_OR_PATH地址；
+* Web页面测试
+```python
+sh start_web_demo.sh
+```
+1. 需要修改model_name_or_path位置;
+运行效果如图：
+
 ### 项目参与者
 本项目由山西大学与山西农业大学联合开发完成
 
