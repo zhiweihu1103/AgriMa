@@ -28,7 +28,7 @@
 本项目基于现有开源项目二次开发，在此对相关项目和研发人员表示感谢。
 * [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory)
 
-感谢PIXIU的开发人员[黄济民](https://github.com/jiminHuang)给予技术上的交流与指导
+感谢PIXIU开发人员[黄济民](https://github.com/jiminHuang)给予技术上的交流与指导
 * [PIXIU](https://github.com/The-FinAI/PIXIU)
 ## Star History
 <picture>
