@@ -1,0 +1,10 @@
+{
+  "agrima_train": {
+    "file_name": "agrima_instruction.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  }
+}
