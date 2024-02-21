@@ -38,7 +38,7 @@ pip install -r requirements.txt
 * 如需获取AgriMa微调指令集，请发送邮件至zhiweihu@whu.edu.cn与我们联系。
 3. 模型微调
 ```python
-sh start_train.s
+sh start_train.sh
 ```
 * 需要首先下载预训练权重，如[Baichuan](https://huggingface.co/baichuan-inc)；
 * 需要根据你的服务器地址修改对应的：LOG_PATH, OUTPUT_DIR, MODEL_NAME_OR_PATH地址；
