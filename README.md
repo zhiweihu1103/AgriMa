@@ -33,6 +33,9 @@ conda activate agrima
 cd AgriMa
 pip install -r requirements.txt
 ```
+* 指令集构建
+1. 依照[此地址](https://github.com/hiyouga/LLaMA-Factory/blob/main/data/README_zh.md)说明进行指令集构建；
+2. 如需AgriMa微调指令集，请向zhiweihu@whu.edu.cn发送邮件；
 ### 项目参与者
 本项目由山西大学与山西农业大学联合开发完成
 
