@@ -6,6 +6,10 @@
   <img src="pics/logo.jpg" hspace="20"/>
 </p>
 
+<div align="center">
+<h1>首个中文开源农业大模型</h1> 
+</div>
+
 ### 模型简介
 后稷•首个中文开源农业大模型是由山西大学与山西农业大学联合研发，以[Baichuan](https://huggingface.co/baichuan-inc)为底座，基于海量有监督农业领域相关数据微调，具备广泛的农业知识和智能分析能力，该模型旨在为农业领域提供全面而高效的信息处理和决策支持。
 ### 说明
