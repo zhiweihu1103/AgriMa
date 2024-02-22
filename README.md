@@ -53,7 +53,7 @@ sh start_web_demo.sh
 ### 项目参与者
 本项目由山西大学与山西农业大学联合开发完成
 
-项目主要开发人员：[胡志伟](https://github.com/zhiweihu1103)、[闫智超](https://github.com/yzc111)、[马博翔](https://github.com/MattMaBX)、[黄济民](https://github.com/jiminHuang)、[韩玮光](https://github.com/tothemoon96)
+项目主要开发人员：[胡志伟](https://github.com/zhiweihu1103)、[闫智超](https://github.com/yzc111)、[马博翔](https://github.com/MattMaBX)、[黄济民 (The Fin AI)](https://github.com/jiminHuang)、[韩玮光 (The Fin AI)](https://github.com/tothemoon96)
 
 指导教师：李茹（教授）
 
