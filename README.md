@@ -1,6 +1,6 @@
-<div align="center">
-<h1>后稷•首个中文开源农业大模型</h1>
-</div>
+<!-- <div align="center"> -->
+<!-- <h1>后稷•首个中文开源农业大模型</h1> -->
+<!-- </div> -->
 
 ![# AgriMa](pics/logo.jpg)
 
